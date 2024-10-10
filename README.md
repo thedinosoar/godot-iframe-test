@@ -11,8 +11,8 @@
 1. Clone this repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/thedinosoar/godot-iframe-test.git
+   cd godot-iframe-test
    ```
 
 2. Navigate to the godot-server directory:
@@ -31,6 +31,7 @@
     ```
 
 4. Copy your exported Godot HTML5 files or directly export them into the public folder of the godot-server directory.
+    Ensure the name of the exported html file is `iframe-test.html`
 
 ### Running the Development Server
 
